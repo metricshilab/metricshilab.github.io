@@ -2,3 +2,18 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# project
+_site
+.sass-cache
+.vagrant
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+Gemfile.lock
+
+beautiful-jekyll-theme-*.gem
+beautiful-jekyll-theme.gemspec
