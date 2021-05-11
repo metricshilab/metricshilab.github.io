@@ -6,7 +6,20 @@ subtitle:
 
 
 
-This is the Metrics-hi-lab @CUHK.
+This is the Metrics-hi-lab @ CUHK.
+
+
+
+## Members
+
+* Zhentao Shi, Professor
+* Yishu Wang, PhD candidate
+* Yang Chen, PhD student
+* Ting Hin Yan, PhD student
+* Ziwei Mei, PhD student
+* Zhan Gao, PhD student at USC
+
+
 
 
 
@@ -22,10 +35,3 @@ This is the Metrics-hi-lab @CUHK.
 
 
 * 2020: Zhan Gao and Zhentao Shi,  "[Implementing Convex Optimization in R: Two Econometric Examples,](https://link.springer.com/article/10.1007/s10614-020-09995-z)" *Computational Economics* [[pre-print and code](https://github.com/zhan-gao/convex_prog_in_econometrics)]
-
-
-
----
-
-* **Address**: 9F Esther Lee Building, the Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China
-
