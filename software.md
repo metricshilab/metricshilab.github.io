@@ -4,7 +4,7 @@ title:
 subtitle:
 ---
 
-## Packages
+**Packages**
 
 - `bHP`: R package for the boosted HP filter [[package](https://github.com/chenyang45/BoostedHP)] [[vignette](https://github.com/chenyang45/BoostedHP/blob/master/vignettes/vignette.pdf)]
 
@@ -15,7 +15,7 @@ subtitle:
 - `fsPDA`: R package for Forward-selected Panel Data Approach for Program Evaluation [[package](https://github.com/zhentaoshi/fsPDA)] [[vignette](https://github.com/zhentaoshi/fsPDA/blob/master/R_pkg_fsPDA/doc/)]
 
 
-## Apps
+**Apps**
 
 - `bHP`: Interactive R Shiny app [[repo](https://github.com/chenyang45/Boosted_HP_App)] [[interface](https://chenyang1.shinyapps.io/boosted_hp_app/)]
 
@@ -23,7 +23,7 @@ subtitle:
 * `Beijing-housing-prediction`: Interactive R Shiny app [[interface](https://bj-housing.herokuapp.com/)]
 
 
-## Replications
+**Replications**
 
 - `boosted HP filter`: replication files and implementation functions in various languages [[MATLAB, Python, and Julia](https://github.com/zhentaoshi/Boosted_HP_filter/tree/master/)]
 

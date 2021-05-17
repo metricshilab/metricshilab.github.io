@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 城市房价预测系统
+title: 城市房价预测
 subtitle:
 ---
 
@@ -10,15 +10,12 @@ subtitle:
 
 
 
-[北京](https://housingp-pred.herokuapp.com/)
+[![photo](/assets/img/bj.jpg)](https://housingp-pred.herokuapp.com/)
 
-![photo](/assets/img/bj.jpg)
 
----
 
-[深圳](https://zhentao-shi.shinyapps.io/ShenzhenHousing/)
 
-![photo](/assets/img/sz.jpg)
+[![photo](/assets/img/sz.jpg)](https://zhentao-shi.shinyapps.io/ShenzhenHousing/)
 
 
 

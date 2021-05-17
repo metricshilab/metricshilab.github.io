@@ -10,9 +10,9 @@ This is the Metrics-hi-lab @ CUHK.
 
 
 
-## Members
+**Members**
 
-* Zhentao Shi, Professor
+* Zhentao Shi, Associate Professor
 * Yishu Wang, PhD candidate
 * Yang Chen, PhD student
 * Ting Hin Yan, PhD student
@@ -23,7 +23,7 @@ This is the Metrics-hi-lab @ CUHK.
 
 
 
-## Publications
+**Publications**
 
 * 2021: Zhentao Shi and Jingyi Huang, "Forward-Selected Panel Data Approach for Program Evaluation," [[arXiv: 1908.05894](https://arxiv.org/abs/1908.05894)], *Journal of Econometrics*
 
