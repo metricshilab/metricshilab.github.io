@@ -21,8 +21,9 @@ description: econometrics research lab
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-#  Research: "research"
-  Software: "software"
+  Products: 
+    - software: "software"
+    - apps: "apps"
 #  Supervision: "supervision"
 #  Blog: "blog"
 #  Contact: "contact"
