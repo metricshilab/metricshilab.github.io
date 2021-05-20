@@ -15,7 +15,7 @@ subtitle:
 
 
 
-[![photo](/assets/img/sz.jpg)](https://zhentao-shi.shinyapps.io/ShenzhenHousing/)
+[![photo](/assets/img/sz.jpg)](https://zhentao-shi.shinyapps.io/ShenzhenHousing-Shiny/)
 
 
 
