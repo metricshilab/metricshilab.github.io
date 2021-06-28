@@ -17,7 +17,7 @@ subtitle:
 
 **Apps**
 
-- `bHP`: Interactive R Shiny app [[repo](https://github.com/chenyang45/Boosted_HP_App)] [[interface](https://chenyang1.shinyapps.io/boosted_hp_app/)]
+- `bHP`: Interactive R Shiny app [[repo](https://github.com/metricshilab/Boosted_HP_App)] [[interface](https://zwmei-metrics.shinyapps.io/boosted_hp_app/)]
 
 
 * `Beijing-housing-prediction`: Interactive R Shiny app [[interface](https://bj-housing.herokuapp.com/)]
