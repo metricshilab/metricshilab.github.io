@@ -25,7 +25,7 @@ navbar-links:
     - software: "software"
     - apps: "apps"
 #  Supervision: "supervision"
-#  Blog: "blog"
+  Blog: "blog"
 #  Contact: "contact"
   
 #  Resources:
