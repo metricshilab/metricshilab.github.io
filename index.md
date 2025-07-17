@@ -4,37 +4,14 @@ title:
 subtitle:
 ---
 
+![](fig/sz.jpg)
 
+Economic Data Laboratory at CUHK Shenzhen Research Institute 
 
-This is the Metrics-hi-lab @ CUHK.
+香港中文大学深圳研究院 经济数据实验室
 
-
-
-**Members**
-
-* Zhentao Shi, Associate Professor
-* Ziwei Mei, Ph.D. candidate
-* Chengwang Liao, Ph.D. student
-* Yapeng Zheng, Ph.D. student
+地址: 深圳市南山区虚拟大学园区粤兴二道10号香港中文大学深圳研究院大楼6层609室
 
 
 
-
-
-**Publications**
-
-
-* 2023: Zhentao Shi and #Jingyi Huang, "Forward-Selected Panel Data Approach for Program Evaluation," *Journal of Econometrics*, 234, 512-535.
-
-
-* 2023: Wei Lin, Zhentao Shi, #Yishu Wang and #Ting Hin Yan: "Unfolding Beijing in a Hedonic Way," *Computational Economics*, 61, 317-340.
-
-
-* 2022: Ji Hyung Lee, Zhentao Shi, and #Zhan Gao: "On LASSO for Predictive Regression" *Journal of Econometrics*, 229(2), 322-340
-
-
-* 2021: #Zhan Gao and Zhentao Shi:  "Implementing Convex Optimization in R: Two Econometric Examples," *Computational Economics*, 58, 1127-1135
-
-
-* 2021: #Ka Yan Cheng, Naijing Huang and Zhentao Shi: "Survay-Based Forecasting: To Average or Not To Average," in Vladik Kreinovich, Songsak Sriboonchitta, Woraphon Yamaka (eds.), *Studies in Computational Intelligence: Behavioral Predictive Modeling in Economics*, vol 897, pp 87-104, Springer-Verlag
 
